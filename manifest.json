@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "§rIImoxi | Skies (Full Resolution)",
+		"name": "§r§6JPizxeL Skies",
+		"uuid": "69e58797-b221-4cea-b120-39dcf178034c",
+		"version": [ 1, 1, 0 ],
+		"min_engine_version": [ 1, 16, 0 ]
+	},
+	"capabilities": [ 
+		"pbr",
+		"raytraced" 
+	],
+	"subpacks": [
+		{ "folder_name": "black_sky", "name": "§r§7§lBlack Evening Sky §8(4K)§r", "memory_tier": 0 },
+		{ "folder_name": "evening_sky", "name": "§r§7§lEvening Sky §8(1K)§r", "memory_tier": 1 },
+		{ "folder_name": "old_evening_sky", "name": "§r§7§lEvening Dky *Old §8(2K)§r", "memory_tier": 1 },
+		{ "folder_name": "peaceful_day_sky", "name": "§r§7§lPeaceful Day Sky §8(1K)§r", "memory_tier": 1 },
+		{ "folder_name": "sunset_sky", "name": "§r§7§lSunset Sky §8(1K)§r", "memory_tier": 1 }
+	],
+	"modules": [
+		{
+			"description": "§4II§1mox§4i",
+			"type": "resources",
+			"uuid": "fb89810e-1278-479f-876d-72332e9f13b3",
+			"version": [ 1, 1, 0 ]
+		}
+	]
+}
