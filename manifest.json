@@ -12,7 +12,8 @@
 		"raytraced" 
 	],
 	"subpacks": [
-		{ "folder_name": "cloudy_evening_sky", "name": "§r§7§lCloudy Evening Sky §8(4K)§r", "memory_tier": 1 },
+		{ "folder_name": "cloudy_ocean_sky", "name": "§r§7§lCloudy Ocean Sky §8(4K)§r", "memory_tier": 1 },
+		{ "folder_name": "cloudy_evening_sky", "name": "§r§7§lCloudy Evening Sky §8(4K)§r", "memory_tier": 0 },
 		{ "folder_name": "black_sky", "name": "§r§7§lBlack Evening Sky §8(4K)§r", "memory_tier": 0 },
 		{ "folder_name": "evening_sky", "name": "§r§7§lEvening Sky §8(1K)§r", "memory_tier": 0 },
 		{ "folder_name": "old_evening_sky", "name": "§r§7§lEvening Dky *Old §8(2K)§r", "memory_tier": 0 },
